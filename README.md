@@ -1,6 +1,6 @@
 # ¡Hola! Soy Rafa👋
-
-![Banner](https://your-banner-image-url.com)
+<!-- 
+![Banner](https://your-banner-image-url.com) -->
 
 Soy un desarrollador apasionado por la tecnología y la innovación. Me encanta aprender nuevas tecnologías y aplicar mis conocimientos para resolver problemas del mundo real. Aquí encontrarás algunos de mis proyectos y contribuciones.
 
@@ -10,7 +10,7 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Me encanta 
 - 👯 Estoy buscando colaborar en proyectos de **código abierto**.
 - 💬 Pregúntame sobre **JavaScript**, **React**, **Node.js**, y **MongoDB**.
 - 📫 Puedes contactarme en **[tu-email@example.com](mailto:tu-email@example.com)**.
-- ⚡ Dato curioso: ¡Me encanta el senderismo y la fotografía!
+- ⚡ Dato curioso: ¡Me encanta trabajar con Arduino
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -48,11 +48,5 @@ Descripción breve del proyecto 3.
 ---
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o simplemente quieres saludar, no dudes en contactarme. 😊
-
-- [LinkedIn](https://www.linkedin.com/in/tu-usuario)
-- [Twitter](https://twitter.com/tu-usuario)
-- [Blog Personal](https://tu-blog.com)
- -->
----
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o simplemente quieres saludar, no dudes en contactarme. 😊
