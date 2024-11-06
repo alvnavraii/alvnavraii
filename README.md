@@ -48,3 +48,11 @@ Descripción breve del proyecto 3.
 ---
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o simplemente quieres saludar, no dudes en contactarme. 😊
+
+- [LinkedIn](https://www.linkedin.com/in/tu-usuario)
+- [Twitter](https://twitter.com/tu-usuario)
+- [Blog Personal](https://tu-blog.com)
+ -->
+---
+
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta o simplemente quieres saludar, no dudes en contactarme. 😊
