@@ -9,7 +9,7 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Me encanta 
 - 🌱 Actualmente estoy aprendiendo **Next.js** y **TypeScript**.
 - 👯 Estoy buscando colaborar en proyectos de **código abierto**.
 - 💬 Pregúntame sobre **JavaScript**, **React**, **Node.js**, y **MongoDB**.
-- 📫 Puedes contactarme en **[tu-email@example.com](mailto:tu-email@example.com)**.
+- 📫 Puedes contactarme en **[alvnavraii@gmail.com](mailto:alvnavraii@gmail.com)**.
 - ⚡ Dato curioso: ¡Me encanta trabajar con Arduino
 
 ## 🛠️ Tecnologías y Herramientas
