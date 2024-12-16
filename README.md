@@ -10,7 +10,7 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Me encanta 
 - 👯 Estoy buscando colaborar en proyectos de **código abierto**.
 - 💬 Pregúntame sobre **JavaScript**, **React**, **Node.js**, y **MongoDB**.
 - 📫 Puedes contactarme en **[alvnavraii@gmail.com](mailto:alvnavraii@gmail.com)**.
-- ⚡ Dato curioso: ¡Me encanta trabajar con Arduino
+- ⚡ Dato curioso: ¡Me encanta trabajar con Arduino!
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -46,7 +46,5 @@ Descripción breve del proyecto 3.
 - [Blog Personal](https://tu-blog.com)
  -->
 ---
-
-¡Gracias por visitar mi perfil! Si tienes alguna pregunta o simplemente quieres saludar, no dudes en contactarme. 😊
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o simplemente quieres saludar, no dudes en contactarme. 😊
