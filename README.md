@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Rafael Álvarez Navarrete
+# 👋 ¡Hola! Soy Rafa
 
 ## 🚀 Sobre mí
 
